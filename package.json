@@ -1,0 +1,36 @@
+{
+  "name": "hubris-mobile-app",
+  "version": "1.0.0",
+  "description": "A service-sharing and delivery platform providing various professional-related services.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-native": "0.64.2",
+    "react-navigation": "^4.4.4",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5",
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/hubris-mobile-app.git"
+  },
+  "keywords": [
+    "service-sharing",
+    "delivery",
+    "professional-services",
+    "mobile-app"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
